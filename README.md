@@ -1,4 +1,4 @@
 # Status
 
-Just getting started
+Learning git and feeling good about it
 
